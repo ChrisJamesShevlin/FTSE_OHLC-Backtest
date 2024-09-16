@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 mydb = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Uia86w!md',
+    'password': '********',
     'database': 'ftse_data',
 }
 
