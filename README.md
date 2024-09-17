@@ -10,7 +10,6 @@ This repository contains a Python script that connects to a **MySQL database** c
 - [Usage](#usage)
 - [Strategy Explanation](#strategy-explanation)
 - [Customization](#customization)
-- [License](#license)
 
 ## Overview
 
@@ -110,10 +109,5 @@ The strategy can be modified or enhanced depending on your needs.
 3. **Add Additional Logging**:
    You can add more detailed logging or print statements to track individual trades, profits, or losses for each trade.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
----
 
 This script provides a simple framework for calculating trading profits based on historical FTSE stock data from a MySQL database. Feel free to modify the logic to match your own trading strategy or data structure.
